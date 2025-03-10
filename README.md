@@ -44,9 +44,13 @@ We welcome contributions in the following areas:
 
  ## Created by 
 Mathusayini Thayalanesan
+
 Deshan Thrimanna
+
 Thiruvarankan Mathurakaran
+
 Yasas Udakara 
+
 Thineth Sadeepa 
 
 
